@@ -1,0 +1,14 @@
+layout_spectrum: 0.44097536779008806
+typography_spectrum: 0.8042897798586637
+color:
+  brandStrength: 0.2088152850046754
+  lightness: 0.9081607335247099
+  saturation: 0.1344365773256868
+  rhythmicContrast: 0.02151937037706375
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: thisismynewsite
